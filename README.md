@@ -40,12 +40,3 @@ Computer Science student focused on programming logic, data structures, and algo
 [![BeeCrowd](https://img.shields.io/badge/BeeCrowd-1B4F8C?style=for-the-badge)](https://judge.beecrowd.com/pt/profile/891812)
 [![Codeforces](https://img.shields.io/badge/Codeforces-445F9D?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/helioabrahao007)
 [![NEPS Academy](https://img.shields.io/badge/NEPS%20Academy-0057B8?style=for-the-badge)](https://neps.academy/br/user/33994)
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HelioAbrahao&show_icons=true&theme=dark&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HelioAbrahao&layout=compact&theme=dark&hide_border=true"/>
-</p>
